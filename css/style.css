@@ -11,14 +11,19 @@ margin: 0 auto;
 
 #main img {
 	display: block;
-	margin: auto;
+	margin: 20px auto;
 	max-width: 100%;
+}
+
+h2, h3, h4, h5, h6 {
+	letter-spacing: 0.1em;
+	font-family: 'Fjalla One', sans-serif;
+	text-transform: uppercase;
 }
 
 h1 {
 	text-align: center;
 	font-size: 4em;
-	letter-spacing: 0.2em;
 	font-family: 'Fjalla One', sans-serif;
 	text-transform: uppercase;
 }
