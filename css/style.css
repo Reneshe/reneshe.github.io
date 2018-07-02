@@ -34,12 +34,20 @@ header {
 	display: inline-block;
 }
 
+.nav ul {
+	padding: 0;
+}
+
 .nav ul li a {
 	float: left;
   font-size: 16px;
   color: white;
   text-decoration: none;
 	margin: 0 30px;
+}
+
+a:hover {
+	opacity: 0.8;
 }
 
 h1 {
