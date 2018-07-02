@@ -50,6 +50,8 @@ a {
 	transition: opacity 2s;
 	-webkit-transition: opacity 2s;
 	opacity: 1;
+	text-decoration: none;
+	color: black;
 }
 
 a:hover {
